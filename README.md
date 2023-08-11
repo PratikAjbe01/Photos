@@ -1,8 +1,25 @@
-# React + Vite
+# Photo Gallery React App
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Welcome to the Photo Gallery React App! This project is a simple web application built using React that allows users to browse and view a collection of photos. It includes a list of images and an image details page for each selected image.
 
-Currently, two official plugins are available:
+## Features
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+- Display a list of images with titles.
+- Click on an image to view its details on a separate page.
+- Navigate back to the image list using the "Home" button.
+
+## Getting Started
+
+Follow these steps to get the project up and running on your local machine.
+
+### Prerequisites
+
+- Node.js and npm installed on your machine.
+
+### Installation
+
+1. Clone the repository:
+
+   ```bash
+   git clone https://github.com/your-username/photo-gallery-react-app.git
+
